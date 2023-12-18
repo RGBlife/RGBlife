@@ -2,7 +2,7 @@
 
 ## About Me
 
-👨‍🎓 [A graduate of the Northcoders software development bootCamp](https://northcoders.com/our-courses/coding-bootcamp).
+👨‍🎓 A graduate of the [Northcoders software development bootcamp](https://northcoders.com/our-courses/coding-bootcamp).
 
 🚀 Currently trying to land a role in a company where I can both learn and contribute meaningfully to software development.
 
