@@ -4,7 +4,7 @@
 
 👨‍🎓 A graduate of the [Northcoders software development bootcamp](https://northcoders.com/our-courses/coding-bootcamp).
 
-🚀 Currently trying to land a role in a company where I can both learn and contribute meaningfully to software development.
+🚀 Currently looking for a role in Software Development where I can both learn and contribute meaningfully to the company.
 
 💻 Working on building projects to learn new technologies and enhance my current knowledge. My current focus is building a portfolio website to showcase my projects. I'm also refining and adding features to projects developed during my time at Northcoders, like [news-api](https://github.com/RGBlife/news-api) & [news-api-ui](https://github.com/RGBlife/news-api-ui) and [Reeltalk](https://github.com/RGBlife/ReelTalk) (group project).
 
